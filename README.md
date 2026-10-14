@@ -292,3 +292,5 @@ collection of awesome Telegram bots
 - [teldrive](https://github.com/divyam234/teldrive) - Telegram Drive is a powerful utility that enables you to create your own cloud storage service using Telegram as the backend.
 
 - [Watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
+
+- [AnonInbox](https://t.me/AnonInboxBot) - Receive anonymous messages from anyone on Telegram; honest feedback without revealing who asked. Web mini app with per-user stats, public answers, and shareable story cards. Multi-language (EN/RU/ES/PT). Web app: https://anoninbox-bot.lipmichal.workers.dev/app
